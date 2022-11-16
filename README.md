@@ -1,4 +1,5 @@
 # Developed algorithms for Bitcoin to USD exchange rate prediction using machine learning 
+## Description: 
 This is a small program using ready-made solutions from the SKlearn to predict the price of bitcoin to the dollar.
 ## Input Data:
 ![image](https://user-images.githubusercontent.com/57821178/174428868-43e362f5-8465-49ba-bdd6-c656fb8e60cf.png)
